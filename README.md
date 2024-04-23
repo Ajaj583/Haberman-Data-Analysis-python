@@ -5,8 +5,10 @@ The project delves into performing exploratory data analysis (EDA) on the Haberm
 
 ## Dataset Overview
 The Haberman's Survival Dataset comprises attributes related to patients who had undergone surgery for breast cancer, including age, year of operation, number of positive axillary nodes detected, and survival status. The dataset aims to facilitate analysis and prediction of survival rates based on these attributes.
- 
- ![image](https://github.com/Ajaj583/Haberman-Data-Analysis-python/assets/158480555/586fc063-1675-4fc2-992e-907600ce029d)
+
+
+  ![image](https://github.com/Ajaj583/Haberman-Data-Analysis-python/assets/158480555/c8076149-c4ab-4918-9d97-cd5a121ad07d)
+
 
 
 ## Project Objectives
@@ -31,5 +33,5 @@ The Haberman's Survival Dataset comprises attributes related to patients who had
 Through this exploratory data analysis, we aim to gain insights into the factors influencing the survival of breast cancer patients post-surgery. By analyzing the dataset's attributes and their relationships, we can contribute to a better understanding of breast cancer treatment outcomes and potentially aid in improving patient care and prognosis prediction.
 
 ## Project Link
-https://github.com/Ajaj583/Haberman-Data-Analysis-python/blob/main/EDA_Haberman_.ipynb
+[GitHub Repository](https://github.com/Ajaj583/Haberman-Data-Analysis-python/blob/main/EDA_Haberman_.ipynb)
 
